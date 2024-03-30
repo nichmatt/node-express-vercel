@@ -1,0 +1,73 @@
+[
+    {
+        "name": "default",
+        "type":"char",
+        "price": 0
+    },
+    {
+        "name": "default",
+        "type": "skin",
+        "price": 0
+    },
+    {
+        "name": "mr-king",
+        "type":"char",
+        "price": 350
+    },
+    {
+        "name": "mrs-party",
+        "type":"char",
+        "price": 300
+    },
+    {
+        "name": "azure-explosiomancer",
+        "type":"char",
+        "price": 250
+    },
+    {
+        "name": "crimson-specter",
+        "type":"char",
+        "price": 100
+    },
+    {
+        "name": "normal-guy",
+        "type":"char",
+        "price":0
+    },
+    {
+        "name": "owen",
+        "type":"char",
+        "price": 150
+    },
+    {
+        "name": "smoldering-detonation",
+        "type":"char",
+        "price": 50
+    },
+    {
+        "name": "vampiric-blaster",
+        "type":"char",
+        "price": 275
+    },
+    {
+        "name": "amethyst",
+        "type":"skin",
+        "price": 50
+    },
+    {
+        "name": "cerulean",
+        "type":"skin",
+        "price": 50
+    },
+    {
+        "name": "citrus",
+        "type":"skin",
+        "price": 50
+    },
+    {
+        "name": "prismancer",
+        "type":"skin",
+        "price": 50
+    }
+
+]

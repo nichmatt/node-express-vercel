@@ -1,0 +1,77 @@
+[
+    {
+        "username": "tes1",
+        "email": "tes1@mail.com",
+        "password": "tes12345",
+        "easyScore": 1000
+    },
+    {
+        "username": "tes2",
+        "email": "tes2@mail.com",
+        "password": "tes2345",
+        "easyScore": 5000
+    },
+    {
+        "username": "tes3",
+        "email": "tes3@mail.com",
+        "password": "tes345",
+        "easyScore": 100
+    },
+    {
+        "username": "tes4",
+        "email": "tes4@mail.com",
+        "password": "tes45",
+        "easyScore": 3230
+    },
+    {
+        "username": "tes5",
+        "email": "tes5@mail.com",
+        "password": "tes43215",
+        "easyScore": 10000
+    },
+    {
+        "username": "tes6",
+        "email": "tes6@mail.com",
+        "password": "tes654321",
+        "easyScore": 1000
+    },
+    {
+        "email": "test",
+        "password": "12345",
+        "username": "siTest",
+        "experience" : 0,
+        "balance": 10,
+        "selectedSkin": "basic",
+        "selectedChar": "basic",
+        "easyScore": 1212,
+        "mediumScore": 232,
+        "hardScore": 2321,
+        "impossibleScore": 120
+    },
+    {
+        "email": "test2",
+        "password": "12345",
+        "username": "siTest2",
+        "experience" : 0,
+        "balance": 10,
+        "selectedSkin": "basic",
+        "selectedChar": "basic",
+        "easyScore": 230,
+        "mediumScore": 340,
+        "hardScore": 700,
+        "impossibleScore": 600
+    },
+    {
+        "email": "test3",
+        "password": "12345",
+        "username": "siTest3",
+        "experience" : 0,
+        "balance": 10,
+        "selectedSkin": "basic",
+        "selectedChar": "basic",
+        "easyScore": 100,
+        "mediumScore": 200,
+        "hardScore": 300,
+        "impossibleScore": 400
+    }
+]
